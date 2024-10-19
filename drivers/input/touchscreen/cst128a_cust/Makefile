@@ -1,0 +1,1 @@
+obj-$(CONFIG_TOUCHSCREEN_CST128A_CUST)   += cst128a_ts.o
